@@ -1,0 +1,16 @@
+{
+  "name": "googleBot",
+  "version": "1.0.0",
+  "description": "googleBot",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "Zeay",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^2.0.9",
+    "sanitize-filename": "^1.6.3"
+  }
+}
